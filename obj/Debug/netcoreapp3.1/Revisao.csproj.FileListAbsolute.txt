@@ -1,0 +1,13 @@
+C:\Users\Julio Dutra\Documents\Digital Inovation One\Primeiros passos com .NET + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\Julio Dutra\Documents\Digital Inovation One\Primeiros passos com .NET + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\Julio Dutra\Documents\Digital Inovation One\Primeiros passos com .NET + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\Julio Dutra\Documents\Digital Inovation One\Primeiros passos com .NET + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\Julio Dutra\Documents\Digital Inovation One\Primeiros passos com .NET + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Julio Dutra\Documents\Digital Inovation One\Primeiros passos com .NET + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Julio Dutra\Documents\Digital Inovation One\Primeiros passos com .NET + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\Julio Dutra\Documents\Digital Inovation One\Primeiros passos com .NET + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\Julio Dutra\Documents\Digital Inovation One\Primeiros passos com .NET + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\Julio Dutra\Documents\Digital Inovation One\Primeiros passos com .NET + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Julio Dutra\Documents\Digital Inovation One\Primeiros passos com .NET + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Julio Dutra\Documents\Digital Inovation One\Primeiros passos com .NET + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Julio Dutra\Documents\Digital Inovation One\Primeiros passos com .NET + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
